@@ -9,7 +9,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/balkrushnanaik/Personal_Portfolio
+git clone https://github.com/balkrushnanaik/Personal_Portfolio.git
 ```
 
 ### 2. Navigate to the Project Folder
