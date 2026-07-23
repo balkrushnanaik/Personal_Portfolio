@@ -6,9 +6,9 @@ import { HiOutlineDownload } from "react-icons/hi";
 import { siteConfig } from "../../data/siteConfig";
 import "./Contact.css";
 
-const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+const SERVICE_ID = import.meta.env.service_x5e2qze;
+const TEMPLATE_ID = import.meta.env.template_rbo3b8l;
+const PUBLIC_KEY = import.meta.env.f8SfZHZlIY5u7TEkU;
 
 export default function Contact() {
   const formRef = useRef(null);

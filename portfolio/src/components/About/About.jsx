@@ -19,10 +19,10 @@ const points = [
     desc: "Approaching every dataset by asking what business question it actually needs to answer first.",
   },
   {
-    icon: FaLayerGroup,
-    title: "Continuous Learner",
-    desc: "Google Data Analytics and Microsoft PL-300 certified, with a habit of shipping a new project every few weeks.",
-  },
+  icon: FaLayerGroup,
+  title: "Continuous Learner",
+  desc: "Solving Python and SQL problems daily, from basic to intermediate level, and regularly sharing my progress on LinkedIn.",
+},
 ];
 
 export default function About() {
