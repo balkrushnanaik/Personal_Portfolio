@@ -1,0 +1,32 @@
+.achievements { padding: 64px 0; }
+.achievements::before,
+.achievements::after { content: none; }
+
+.ach-grid {
+  background: var(--grad-radiant);
+  border-radius: var(--r-lg);
+  padding: 44px 32px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  box-shadow: var(--shadow-lg);
+}
+
+.ach-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  color: #fff;
+}
+
+.ach-number { font-size: clamp(28px, 3vw, 36px); font-weight: 700; }
+.ach-label { font-size: 13px; color: rgba(255,255,255,0.85); }
+
+@media (max-width: 860px) {
+  .ach-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 560px) {
+  .ach-grid { grid-template-columns: repeat(2, 1fr); padding: 32px 20px; }
+}
