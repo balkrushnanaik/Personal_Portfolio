@@ -30,15 +30,11 @@ export const certifications = [
     icon: "FaLaptopCode",
   },
   {
-    title: "Google Data Analytics",
-    issuer: "Google Career Certificates",
+    title: "Data Analytics",
+    issuer: "Innomatic Research Labs",
     icon: "FaGoogle",
   },
-  {
-    title: "PL-300: Power BI Data Analyst",
-    issuer: "Microsoft",
-    icon: "TbLayoutDashboard",
-  },
+  
 ];
 
 export const services = [

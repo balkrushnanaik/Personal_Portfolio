@@ -5,8 +5,8 @@ export const siteConfig = {
   intro:
     "Final-year Computer Engineering student passionate about Data Analytics, Business Intelligence, Data Visualization, SQL, Python, Power BI, Excel, and solving business problems using data.",
   location: "Pune, Maharashtra, India",
-  email: "balkrushna.naik@example.com",
+  email: "balkrushnanaik9322@gmail.com",
   github: "https://github.com/balkrushnanaik",
-  linkedin: "https://linkedin.com/in/balkrushnanaik",
+  linkedin: "https://linkedin.com/in/balkrushna02",
   resumeUrl: "/resume.pdf",
 };
