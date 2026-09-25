@@ -21,7 +21,7 @@ cd Personal_Portfolio
 ### 3. Go to the Frontend Directory
 
 ```bash
-cd frontend
+cd portfolio
 ```
 
 ### 4. Install Dependencies
@@ -55,8 +55,7 @@ http://localhost:5173
 ## 📂 Project Structure
 
 ```
-Portfolio/
-├── frontend/
+Portfolio
 │   ├── src/
 │   ├── public/
 │   ├── package.json
