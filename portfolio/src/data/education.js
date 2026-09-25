@@ -26,13 +26,13 @@ export const certifications = [
   },
   {
     title: "Full Stack Development",
-    issuer: "UpGrad Learning Support Center",
+    issuer: "upGrad Learning Support Center",
     icon: "FaLaptopCode",
   },
   {
-    title: "Data Analytics",
-    issuer: "Innomatic Research Labs",
-    icon: "FaGoogle",
+    title: "Data Science & Machine Learning ",
+    issuer: "upGrad Learning Support Center",
+    icon: "FaLaptopCode",
   },
   
 ];
